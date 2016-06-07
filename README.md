@@ -1,7 +1,7 @@
 # FS
 
 FS is a radical new concept that proposes: everything teams need for issue tracking and project 
-management can be done using only a unix file system. In the following steps I'll show you
+management can be done using only a unix file system (using NFS, SMB, Dropbox or Github). In the following steps I'll show you
 how to track a new software project using FS.
 
 ### Epics
