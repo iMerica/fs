@@ -114,4 +114,8 @@ $ tree
 
 
 
-
+## TODO
+@Todo:
+- Wrap all the basic functionality in an `fs` command.
+- Add new homebrew tap formula for this command.
+- Do the same as above for debian/ubuntu.
